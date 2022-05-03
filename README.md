@@ -10,6 +10,7 @@ Algorithm:
 4. Replace the 8*8 block in player1 that has the lowest block error.
 5. Repeat the steps through the whole image
 
+The results can be found in the image folder.
 
-
+Note: Please change the row and columns value in the code if you want to use your own image.
 
