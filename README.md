@@ -1,5 +1,5 @@
 # Motion-Estimation
-Motion estimation of two given image.
+Mini project : Motion estimation of two given image.
 
 This miniproject implement motion estimation between two different images. (Player1 and Player2)
 
